@@ -16,4 +16,4 @@ This project is a follow along by Javascript Mastery on Youtube with a few of my
 - Efficient, clean React file structure
 - General CSS styling tricks and skills
 - Using js files to import many components/images in one line of code
-- How to build the foundation and plan a React app
+- How to build the foundation/plan for a react app
