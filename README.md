@@ -1,9 +1,9 @@
-# Mock GPT-3 Website (React + vite)
+# Mock GPT-3 Website (React + Vite)
 
 By Anton Clayton
 
 ## Skills used:
-- Javascript
+- JavaScript
 - JSX
 - CSS
 - React
